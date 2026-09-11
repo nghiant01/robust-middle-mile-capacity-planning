@@ -64,10 +64,7 @@ $$
 
 where
 
-$$
-C(x)
-=
-\begin{bmatrix}
+$$ C(x) = \begin{bmatrix}
 C_1(x)\\
 \vdots\\
 C_S(x)
