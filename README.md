@@ -41,7 +41,7 @@ $$ \max_s C_s(x) = \max_{p\in\Delta_S}\sum_{s=1}^{S} p_s C_s(x),$$
 
 where 
 
-$$\Delta_S = \left\{ p\in\mathbb{R}^S: p\ge 0, \mathbf{1}^\top p=1 \right\}$$ 
+$$\Delta_S = \left\lbrace p\in\mathbb{R}^S: p\ge 0, \mathbf{1}^\top p=1 \right\rbrace$$ 
 
 is the probability simplex in $\mathbb{R}^S$.
 
