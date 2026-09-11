@@ -1,0 +1,4 @@
+algorithm,train_robust_objective,final_natural_residual,iterations,runtime_seconds,status
+Extragradient,205.9609519203765,9.914397782176252e-06,3600,1.0540368845686316,converged
+GDA,206.27873288739735,1.1666966910942846,8000,1.2123547587543726,max_iterations
+SciPy reference,205.96095119209323,,22,0.0357043594121933,converged
