@@ -143,7 +143,7 @@ Relative to expected-value planning, the robust Extragradient plan reserves appr
 
 | Algorithm | Training robust objective | Natural residual | Iterations | Status |
 |---|---:|---:|---:|---|
-| Extragradient | 205.961 | \(9.91\times10^{-6}\) | 3600 | Converged |
+| Extragradient | 205.961 | $9.91\times10^{-6}$ | 3600 | Converged |
 | GDA | 206.279 | 1.17 | 8000 | Maximum iterations |
 | SciPy reference | 205.961 | — | 22 | Converged |
 
